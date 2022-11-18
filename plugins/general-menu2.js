@@ -9,7 +9,7 @@ let PhoneNumber = require('awesome-phonenumber')
 const defaultMenu = {
   before: `
 ┌───────────────────⬣
-│   *мυʀѕι∂ вσт-χмℓ*
+│   *Saxia Bot Md V2*
 └───────────────────⬣
 │ ⬡ *Nama* : %name
 │
@@ -33,7 +33,7 @@ const defaultMenu = {
 │⬡ *Owner* : Mursid S
 │⬡ *Database* : %rtotalreg dari %totalreg 
 │⬡ *Memory Used* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-│⬡ https://instagram.com/mursid.st
+│⬡ https://Wa.me/6285641142178
 └───────────────────⬣`.trim(),
   header: '┌──「 *%category* 」──⬣',
   body: '│⬡ %cmd %islimit %isPremium',
@@ -258,7 +258,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                             itemCount : 9999999999999,
                             status: 1,
                             surface : 1,
-                            message: 'мυʀѕι∂ вσт-χмℓ',
+                            message: 'Saxia Bot V2,
                             orderTitle: 'Menu',
                             thumbnail: await (await fetch('https://telegra.ph/file/0c7944e2159f74fa2397b.jpg')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
