@@ -1,4 +1,4 @@
-const kontol = "https://telegra.ph/file/f4b21013c0b52e0ef1b02.jpg"
+const kontol = "https://i.pinimg.com/564x/57/5c/8c/575c8cf89faea4a22e2bb0eacc12ffcc.jpg"
 
 let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, kontol, `
 Silahkan scan barcode di atas untuk melakukan transaksi, wajin menyertakan bukti transfer
@@ -8,3 +8,4 @@ handler.tags = ['main', 'utama']
 handler.command = /^(bayar)$/i
 
 module.exports = handler
+
