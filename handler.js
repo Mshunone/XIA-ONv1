@@ -20,7 +20,7 @@ module.exports = {
             if (!m) return
             // console.log(m)
             m.exp = 0
-            m.limit = false
+            m.limit = true
             try {
                 let user = global.db.data.users[m.sender]
                 if (typeof user !== 'object') global.db.data.users[m.sender] = {}
@@ -41,7 +41,7 @@ module.exports = {
                     if (!isNumber(user.troopcamp)) user.troopcamp = 0
                     if (!isNumber(user.coin)) user.coin = 0
                     if (!isNumber(user.atm)) user.atm = 0
-                    if (!isNumber(user.limit)) user.limit = 100
+                    if (!isNumber(user.limit)) user.limit = 25
                     if (!isNumber(user.glimit)) user.glimit = 20
                     if (!isNumber(user.tprem)) user.tprem = 0
                     if (!isNumber(user.tigame)) user.tigame = 50
@@ -435,7 +435,7 @@ module.exports = {
                     sPromote: '',
                     sDemote: '',
                     delete: true,
-                    antiLink: false,
+                    antiLink: true,
                     viewonce: false,
                     antiToxic: true,
                 }
