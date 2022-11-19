@@ -3,29 +3,29 @@
 //RECODE BY MURSID
 
 //『 Utama 』 //
-global.owner = ['6288233832771']  // isi jika perlu
-global.mods = ['6288233832771']   // isi jika perlu
-global.prems = ['6288233832771']  // isi jika perlu
+global.owner = ['6285641142178']  // isi jika perlu
+global.mods = ['6285641142178']   // isi jika perlu
+global.prems = ['6283805685278']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '𝙈𝙪𝙧𝙨𝙞𝙙 𝙎' // isi nama kalian bebas
-global.numberowner = '6288233832771' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6288233832771' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6289674452300' // isi dengan nomor pulsa hp kalian
-global.gopay = '6288233832771'
+global.nameowner = '@ Kaxel-XD' // isi nama kalian bebas
+global.numberowner = '6285641142178' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '---' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '---' // isi dengan nomor pulsa hp kalian
+global.gopay = '---'
 
 //Name Bot & Grouplink//
-global.namebot = 'мυʀѕι∂ вσт-χмℓ'
-global.gc = 'https://chat.whatsapp.com/D8yjEn4OAcJ4Pe41pjPDFB'
-global.web = 'https://instagram.com/mursid.st' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '「 SaxiaBotV1 」'
+global.gc = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz'
+global.web = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'мυʀѕι∂ вσт-χмℓ'
+global.wm = '「 SaxiaBotV1 」'
 global.watermark = wm
-global.wm2 = 'мυʀѕι∂ вσт-χмℓ'
-global.wm3 = 'мυʀѕι∂ вσт-χмℓ'
+global.wm2 = '「 SaxiaBotV1 」'
+global.wm3 = '「 SaxiaBotV1 」'
 global.wm4 = '2022'
 global.htki = '––––––「' 
 global.htka = '」––––––'
@@ -36,8 +36,8 @@ global.benar = 'вєɴαʀ'
 global.salah = 'ѕαℓαн'
 global.stiker_wait = 'Loading...'
 global.packname = 'sᴛɪᴄᴋᴇʀ ʙʏ'
-global.author = 'мυʀѕι∂ вσт-χмℓ'
-global.mursid = 'мυʀѕι∂ вσт-χмℓ'
+global.author = '「 SaxiaBotV1 」'
+global.mursid = '「 SaxiaBotV1 」'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
